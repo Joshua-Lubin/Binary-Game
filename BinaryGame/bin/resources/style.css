@@ -1,0 +1,51 @@
+.menu {
+	-fx-effect: dropshadow(gaussian, #7a7a7a, 20, 0.1, 0.0, 0.0);
+	-fx-background-radius: 20, 20, 20, 20;
+	-fx-background-color: white;
+	-fx-max-width: 600;
+	-fx-max-height: 350;
+	-fx-padding: 40, 40, 40, 40;
+}
+RadioButton {
+	-fx-font-size: 20;
+	-fx-padding: 10, 10, 10, 10;
+}
+.menuLabel {
+	-fx-padding: 10, 30, 10, 10;
+	-fx-font-size: 20;
+}
+.startButton {
+	-fx-font-size: 20;
+	-fx-padding: 10, 10, 10, 10;
+}
+.timeRemainingWrapperWrapper {
+	-fx-padding: 60, 30, 90, 30;
+	-fx-effect: dropshadow(gaussian, #7a7a7a, 20, 0.1, 0.0, 0.0);
+}
+.timeRemainingWrapper {
+	-fx-min-width: 500;
+	-fx-background-radius: 10, 10, 10, 10;
+	-fx-background-color: white;
+}
+.timeRemaining {
+	-fx-background-radius: 10, 10, 10, 10;
+	-fx-arc-height: 10, 10, 10, 10;
+	-fx-arc-width: 10, 10, 10, 10;
+}
+.userInput {
+	-fx-font-size: 75;
+}
+.base10 {
+	-fx-font-size: 150;
+}
+.gameEndWrapper {
+	-fx-alignment: center;
+}
+.gameOver {
+	-fx-font-size: 150;
+	-fx-padding: 120, 30, 30, 30;
+}
+.score {
+	-fx-font-size: 75;
+	-fx-padding: 30, 30, 30, 30;
+}
