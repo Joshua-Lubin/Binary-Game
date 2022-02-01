@@ -2,12 +2,12 @@
 I completed this project as an honors contract for CSE 205.
 
 ## Functionality
-- Be re-playable without closing the application and starting it again
-- Accurately convert base 10 numbers to binary
-- Give the user a score when they are done
-- End the game when the user runs out of time
-- Include a timing bar so the user can visualize the amount of time left
-- Add extra time for each number the user accurately converts to binar
+- Re-playable without restarting the application
+- Converts base 10 numbers to binary
+- Gives the user a score at the end of the game
+- Ends the game when the user runs out of time
+- Includes a timer bar so the user can visualize the amount of time left
+- Adds extra time for each number the user accurately converts to binary
 
 ## UML Diagram
 <img src="https://user-images.githubusercontent.com/90717831/151893338-1e9514be-ae70-454e-a048-64694d2bc60f.jpg" width=750/>
