@@ -24,21 +24,21 @@ In the menu, the user can choose the number of bits in each number, how much tim
 <br clear="left"/>
 
 ## Gameplay
-### Game Interface
+### UI Before Binary Is Entered
 <img src="https://user-images.githubusercontent.com/90717831/151893413-57205836-da36-409a-a517-74739ccda461.jpg" width=400/ align="left">
-<br clear="left"/> UI Before Binary Is Entered
-<br/>
+<br clear="left"/>
 
+### UI While Binary Is Being Entered
 <img src="https://user-images.githubusercontent.com/90717831/151893423-750fda9f-22eb-4523-af6b-5e6084ca73a6.jpg" width=400/ align="left">
-<br clear="left"/> UI While Binary Is Being Entered
-<br/>
+<br clear="left"/>
 
+### UI If Binary Is Correct
 <img src="https://user-images.githubusercontent.com/90717831/151893435-6feb810f-b1d7-4347-9891-37ae8ef55adf.jpg" width=400/ align="left">
-<br clear="left"/> UI If Binary Is Correct
-<br/>
+<br clear="left"/>
 
+### UI If Binary Is Incorrect
 <img src="https://user-images.githubusercontent.com/90717831/151893453-72983b9c-d03d-4bfc-83ab-3e740551579b.jpg" width=400/ align="left">
-<br clear="left"/> UI If Binary Is Incorrect
+<br clear="left"/>
 
 ### End Screen
 <img src="https://user-images.githubusercontent.com/90717831/151893459-2897ae6a-1d44-45da-89fe-1286f8837c74.jpg" width=400/>
